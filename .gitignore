@@ -1,0 +1,9 @@
+###> config ###
+/.phpunit.result.cache
+/infection.log
+/.phpcs-cache
+/phpcs.xml
+/phpunit.xml
+.phpunit.result.cache
+/vendor
+###< config ###
