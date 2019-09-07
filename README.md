@@ -1,5 +1,9 @@
 # BlacksmithProject's Event Manager
 
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/BlacksmithProject/event-manager/badges/quality-score.png?b=event_registration)](https://scrutinizer-ci.com/g/BlacksmithProject/event-manager/?branch=event_registration)
+[![Code Coverage](https://scrutinizer-ci.com/g/BlacksmithProject/event-manager/badges/coverage.png?b=event_registration)](https://scrutinizer-ci.com/g/BlacksmithProject/event-manager/?branch=event_registration)
+
+
 A PHP Library providing tools to manage Events in Domain Driven Design.
 
 ## How to use it
